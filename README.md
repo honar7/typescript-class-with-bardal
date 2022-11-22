@@ -1,0 +1,1 @@
+# typescript-class-with-bardal
